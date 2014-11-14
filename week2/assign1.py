@@ -1,8 +1,3 @@
-"""
-fdsfdsfsd
-fsdfds
-fsdf
-"""
 import sys
 
 
